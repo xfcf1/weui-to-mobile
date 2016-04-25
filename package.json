@@ -1,6 +1,6 @@
 {
   "name": "weui-to-mobile",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "keywords": [
     "iphone",
@@ -11,6 +11,7 @@
     "mobile"
   ],
   "style": "dist/style/weui.css",
+  "main": "dist/style/weui.css",
   "scripts": {
     "start": "gulp -ws",
     "test": "gulp release"
